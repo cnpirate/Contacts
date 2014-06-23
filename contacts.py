@@ -6,7 +6,7 @@ if len(sys.argv) < 2:
 	print("No action!")
 	sys.exit()
 
-filename = "contractor.txt"
+filename = "contacts.txt"
 action = sys.argv[1]
 dict = {}
 print(action)
